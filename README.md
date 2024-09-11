@@ -4,12 +4,11 @@
 <h1 align="center">Hi 👋, I'm Vipul</h1>
 <h3 align="center">Learning C++</h3>
 
-<img align="right" alt="Coding" height="210" width="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
-- 📫 How to reach me **kshubhamsingh96311@gmail.com**
+- 📫 How to reach me **vipulsingh8235@gmail.com**
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubham__singh011) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-kumar-8295bb227) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iamks45)
+[![Instagram](https://www.instagram.com/mr.rajput___001/)](https://instagram.com/shubham__singh011) [![LinkedIn](https://www.linkedin.com/in/vipul-kumar-singh-90730a22b/) [![X](https://x.com/Rajput8235)
 
 
 # 💻 Tech Stack:
@@ -17,15 +16,15 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shubhamsingh872&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shubhamsingh872&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsingh872&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=vipulsingh36&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vipulsingh36&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulsingh36&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shubhamsingh872&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=vipulsingh36&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ---
