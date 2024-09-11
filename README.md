@@ -8,7 +8,7 @@
 - 📫 How to reach me **vipulsingh8235@gmail.com**
 
 ## 🌐 Socials:
-[![Instagram](https://www.instagram.com/mr.rajput___001/)](https://instagram.com/shubham__singh011) [![LinkedIn](https://www.linkedin.com/in/vipul-kumar-singh-90730a22b/) [![X](https://x.com/Rajput8235)
+[![Instagram](https://www.instagram.com/mr.rajput___001/)] [![LinkedIn](https://www.linkedin.com/in/vipul-kumar-singh-90730a22b/) [![X](https://x.com/Rajput8235)
 
 
 # 💻 Tech Stack:
